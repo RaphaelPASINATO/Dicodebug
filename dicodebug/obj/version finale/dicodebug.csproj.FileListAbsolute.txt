@@ -1,0 +1,10 @@
+C:\Users\raphael\Desktop\dicodebug\dicodebug\bin\version finale\dicodebug.exe.config
+C:\Users\raphael\Desktop\dicodebug\dicodebug\bin\version finale\dicodebug.exe
+C:\Users\raphael\Desktop\dicodebug\dicodebug\bin\version finale\dicodebug.pdb
+C:\Users\raphael\Desktop\dicodebug\dicodebug\bin\version finale\dico.dll
+C:\Users\raphael\Desktop\dicodebug\dicodebug\bin\version finale\dico.pdb
+C:\Users\raphael\Desktop\dicodebug\dicodebug\obj\version finale\dicodebug.csprojAssemblyReference.cache
+C:\Users\raphael\Desktop\dicodebug\dicodebug\obj\version finale\dicodebug.csproj.CoreCompileInputs.cache
+C:\Users\raphael\Desktop\dicodebug\dicodebug\obj\version finale\dicodebug.csproj.CopyComplete
+C:\Users\raphael\Desktop\dicodebug\dicodebug\obj\version finale\dicodebug.exe
+C:\Users\raphael\Desktop\dicodebug\dicodebug\obj\version finale\dicodebug.pdb

@@ -1,0 +1,5 @@
+C:\Users\raphael\Desktop\dicodebug\dico\bin\version finale\dico.dll
+C:\Users\raphael\Desktop\dicodebug\dico\bin\version finale\dico.pdb
+C:\Users\raphael\Desktop\dicodebug\dico\obj\version finale\dico.csproj.CoreCompileInputs.cache
+C:\Users\raphael\Desktop\dicodebug\dico\obj\version finale\dico.dll
+C:\Users\raphael\Desktop\dicodebug\dico\obj\version finale\dico.pdb

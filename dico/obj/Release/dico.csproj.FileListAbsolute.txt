@@ -1,0 +1,6 @@
+C:\Users\raphael\Desktop\dicodebug\dico\bin\Release\dico.dll
+C:\Users\raphael\Desktop\dicodebug\dico\bin\Release\dico.pdb
+C:\Users\raphael\Desktop\dicodebug\dico\obj\Release\dico.csprojAssemblyReference.cache
+C:\Users\raphael\Desktop\dicodebug\dico\obj\Release\dico.csproj.CoreCompileInputs.cache
+C:\Users\raphael\Desktop\dicodebug\dico\obj\Release\dico.dll
+C:\Users\raphael\Desktop\dicodebug\dico\obj\Release\dico.pdb
